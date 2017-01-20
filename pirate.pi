@@ -1,2 +1,5 @@
 
 print("Arr, matey")
+for i in range(100):
+print srt(i) + "bottles of rum"
+
